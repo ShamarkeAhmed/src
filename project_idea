@@ -1,6 +1,0 @@
-# Project Idea: AI-Assisted Code Vulnerability Explainer
-
-This project uses a large language model to help software developers understand security vulnerabilities in source code. 
-This tool analyzes small code snippets and explains common issues such as SQL injection or hard-coded credentials in clear, simple language.
-
-The goal is to support developers in writing more secure code by providing quick feedback and guidance, not to fully automate security auditing.
